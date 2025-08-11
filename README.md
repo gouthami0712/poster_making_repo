@@ -1,11 +1,11 @@
 # poster_making_repo
-Name:Senapathi Gouthami
+Name:Senapathi Gouthami 
 Role:Creating Pull and Push Requests
 
 Name: Suravarapu Lahari  
 Role: Creating issues
 
-Name:Konatala Anusha 
+Name:Konatala Anusha   
 Role:Branch Creation
 
 Name: Hazmatunnisha              
@@ -16,5 +16,3 @@ Role:Poster Making
           
 Name:Korada Tejeswari            
 Role: Iniviting Collaborators           
-                       
-             
