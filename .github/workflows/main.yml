@@ -4,7 +4,7 @@ on:
   push:  # Runs when someone pushes changes to the repo
     branches:
       - main
-      - ''  # All branches
+   
 
 jobs:
   show-message:
