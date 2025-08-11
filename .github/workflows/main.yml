@@ -1,0 +1,17 @@
+name: Poster Upload Check
+
+on:
+  push:  # Runs when someone pushes changes to the repo
+    branches:
+      - main
+      - ''  # All branches
+
+jobs:
+  show-message:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Show success message
+        run: echo "Poster Uploaded Successfully"
