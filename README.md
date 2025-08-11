@@ -1,6 +1,7 @@
 # poster_making_repo
 Name: Senapathi Gouthami 
-Role: Creating Pull and Push Requests
+Role: Creating Pull and Push 
+Requests
 
 Name: Suravarapu Lahari  
 Role: Creating issues
